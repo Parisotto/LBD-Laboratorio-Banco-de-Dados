@@ -1,0 +1,15 @@
+Crie uma tabela chamada biblioteca com os seguintes campos:
+idBook - do tipo inteiro
+Titulo - do tipo texto
+Autor - do tipo texto
+Paginas - do tipo inteiro
+
+Insira 5 registros diferentes
+
+Consulte todos
+Consulte apenas um titulo
+Consulte um titulo e um autor específicos
+Consulte os que tem páginas acima de 200
+Consulte os que tem páginas abaixo de 200 inclusive
+Consulte ordenando por titulo
+Consulte ordenando por páginas da maior para a menor
