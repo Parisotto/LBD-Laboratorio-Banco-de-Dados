@@ -1,3 +1,5 @@
+<img src="lbd2.png" width="400">
+
 # 📘 Laboratório de Banco de Dados
 
 Repositório com os arquivos SQL das aulas apresentados em sala.
