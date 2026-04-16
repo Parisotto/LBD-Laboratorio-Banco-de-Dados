@@ -14,7 +14,10 @@ Repositório com os arquivos SQL das aulas apresentados em sala.
 - [Aula 02 — Comando CREATE TABLE](./02-criar_tabela_alunos.sql)
 - [Aula 03 — Comando INSERT INTO](./03-inserir_dados.sql)
 - [Aula 03E— Exercícios](./03E-exercicio-1.sql)
-
+- [Aula 04 — Criar tabela Cursos](./04-criar_tabela_cursos.sql)
+- [Aula 05 — Comando ALTER](05-alter_drop.sql)
+- [Aula 06 — Comando UPDATE](06-update.sql)
+- [Aula 07 — Comando DELETE](07-delete.sql)
 
 ---
 
