@@ -18,6 +18,16 @@ Repositório com os arquivos SQL das aulas apresentados em sala.
 - [Aula 05 — Comando ALTER](05-alter_drop.sql)
 - [Aula 06 — Comando UPDATE](06-update.sql)
 - [Aula 07 — Comando DELETE](07-delete.sql)
+- [Aula 08 — DUMPs](08-gerenciar_copias_seguranca.sql)
+- [Aula 09 — SELECT com Operadores](09-select_com_operadores.sql)
+- [Aula 10 — SELECT com LIKE](10-select_like.sql)
+- [Aula 11 — SELECT com ORDER BY](11-select-order-by.sql)
+- [Aula 12 — SELECT com LIMIT](12-select_limit.sql)
+- [Aula 13 — SELECT com COUNT](13-select-agregacao.sql)
+- [Aula 14 — SELECT com HAVING](14-select-group_by_having.sql)
+- [Aula 15 — SELECT com ALIAS](15-select_alias.sql)
+- [Aula 16 — SELECT com DISTINCT e SUBQUER](16-select_distinct_subquery.sql)
+- [Aula 17 — Exercícios com SELECT](17-select_exercicios.sql)
 
 ---
 
